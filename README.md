@@ -138,6 +138,7 @@ Create a `.env.local` file in the project root:
 ```env
 # Google Gemini API Key (required for AI features)
 GEMINI_API_KEY=your_gemini_api_key_here
+VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 **How to get your Gemini API Key:**
