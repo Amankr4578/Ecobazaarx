@@ -1,0 +1,5 @@
+{
+  "name": "EcoBazaar",
+  "description": "A sustainable marketplace featuring carbon footprint visualization, product eco-scores, and environmental impact analytics. Built with RBAC security and a professional green-themed UI.",
+  "requestFramePermissions": ["camera"]
+}
